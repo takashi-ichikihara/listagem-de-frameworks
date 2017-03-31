@@ -1,7 +1,7 @@
 # LISTAGEM DE FRAMEWORKS
 Links de <strong>frameworks</strong> usados em meus projetos , ou que servem para ser estudados.
 
- <h1> Bootstrap </h1> <br>
+ <strong> BOOTSTRAP </strong> <br>
 URL: https://v4-alpha.getbootstrap.com/ <br>
 
 <strong> FOUNDATION </strong> <br>
