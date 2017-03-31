@@ -1,12 +1,9 @@
 # LISTAGEM DE FRAMEWORKS
 Links de <strong>frameworks</strong> usados em meus projetos , ou que servem para ser estudados.
 
-### BOOTSTRAP  
-URL: https://v4-alpha.getbootstrap.com/
+### BOOTSTRAP  - https://v4-alpha.getbootstrap.com/
 
-#### FOUNDATION <br> 
-URL: http://foundation.zurb.com/
+### FOUNDATION - http://foundation.zurb.com/
 
-### BULMA 
-URL: http://bulma.io/
+### BULMA - http://bulma.io/
 
