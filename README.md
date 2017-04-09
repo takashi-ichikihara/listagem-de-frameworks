@@ -7,3 +7,5 @@ Links de <strong>frameworks</strong> usados em meus projetos , ou que servem par
 
 #### - BULMA - http://bulma.io/
 
+#### - BLAZE - http://blazecss.com
+
